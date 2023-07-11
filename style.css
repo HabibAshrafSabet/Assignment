@@ -4,7 +4,7 @@
     padding: 0;
 }
 
-/* Nav related Style  */
+/* Nav related Style start */
 
 .navbar-area{
     display: flex;
@@ -44,4 +44,41 @@ a{
 }
 .shop-btn:hover{
     font-size: 23px ;
+}
+
+/* nav related style end  */
+
+/* home section style start  */
+
+.home-area{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 0px 30px 0px 70px;
+}
+.home-img-area{
+    bottom: 0;
+    width: 635px;
+    height: 800px;
+}
+.home-description{
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.home-title{
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+/* home section style end  */
+
+/* featured flowers section style start  */
+
+section{
+    margin-bottom: 80px;
+}
+.featured-title-description{
+    text-align: center;
 }
