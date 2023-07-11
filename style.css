@@ -11,7 +11,7 @@
     justify-content: space-around;
     align-items: center;
     padding: 40px;
-    background: rgba(229, 84, 115, 0.10);
+    background: rgba(39, 39, 39, 0.05);
 }
 span{
     color:#E55473 ;
@@ -153,5 +153,35 @@ section{
 .margin-fix1{
     margin-top: 4px;
 }
+
+/* delivery,support and new flowers section style end  */
+
+/* hot deal section style start  */
+
+.hot-deal-area{
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 70px 90px;
+}
+.hot-deal-title{
+    /* text-align: center; */
+    font-weight: 700;
+}
+.hot-deal-description{
+    /* text-align: center; */
+    color: rgba(39, 39, 39, 0.60);
+    font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}    
+.hot-deal-text-area{
+    text-align: center;
+}
+
+/* hot deal section style end */
    
 
