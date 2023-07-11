@@ -1,0 +1,47 @@
+*{
+    font-family: 'Poppins', sans-serif; 
+    margin: 0;
+    padding: 0;
+}
+
+/* Nav related Style  */
+
+.navbar-area{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+    background: rgba(229, 84, 115, 0.10);
+}
+span{
+    color:#E55473 ;
+}
+.menu{
+    display: flex;
+    list-style: none;
+    margin-right: 40px;
+    gap: 40px;
+    align-items: center;
+} 
+a{
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+}
+.shop-btn{
+    background: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 12px 28px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.project-logo{
+    font-weight: 700;
+    font-size: 30px;
+}
+.shop-btn:hover{
+    font-size: 23px ;
+}
