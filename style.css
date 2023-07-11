@@ -65,6 +65,7 @@ a{
 .home-description{
     margin-top: 5px;
     margin-bottom: 20px;
+    color: rgba(39, 39, 39, 0.60)
 }
 .home-title{
     font-size: 60px;
@@ -235,3 +236,18 @@ section{
     background: #FFF;
 }
 /* latest deal section style end */
+
+/* footer section style start  */
+
+.footer-area{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: rgba(39, 39, 39, 0.05);
+    text-align: center;
+}
+.footer-area-description{
+    color: rgba(39, 39, 39, 0.60)
+}
+
+/* footer section style end  */
+
